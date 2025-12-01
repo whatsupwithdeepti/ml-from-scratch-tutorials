@@ -93,9 +93,9 @@ A full tutorial on Decision Trees:
 ---
 
 ## 📢 Future Additions (Planned)
-KNN from scratch
-Naive Bayes
-PCA
-Random Forest
-Gradient Boosting
-Notes
+- KNN from scratch
+- Naive Bayes
+- PCA
+- Random Forest
+- Gradient Boosting
+- Notes
