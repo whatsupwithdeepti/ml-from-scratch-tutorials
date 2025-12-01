@@ -92,18 +92,7 @@ A full tutorial on Decision Trees:
 
 ---
 
-## 📁 Repository Structure
-ml-from-scratch-tutorials/
-│
-├── 1. Key concepts of ML.ipynb
-├── 2. MNIST - Classification Problem.ipynb
-├── 3. Linear Regression ( Math ).ipynb
-├── 4. Logistic Regression.ipynb
-├── 5. SVM.ipynb
-├── 6. Decision Trees.ipynb
-
-
-##📢 Future Additions (Planned)
+## 📢 Future Additions (Planned)
 KNN from scratch
 Naive Bayes
 PCA
